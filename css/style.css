@@ -35,7 +35,9 @@ p {
   height: auto;
   color: rgba(255,255,255,.9);
 }
-  .parallax-container .section {
+  
+  .section-intro {
+    height: 100%;
     width: 100%;
   }
 
@@ -60,7 +62,7 @@ p {
   }
 }
  .col-servizio {
-  margin-top: 60px;
+  margin-top: 0px;
   margin-bottom: 100px;
  }
 
@@ -81,6 +83,11 @@ p {
 #servizio h5 {
   font-size: 1.3em;
   line-height: 1.5em;
+}
+
+.section-registrazione {
+  width: 100%;
+  height: 100%;
 }
 
 .btn-registrazione {

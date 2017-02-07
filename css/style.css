@@ -7,7 +7,7 @@
  */
 
 body {
-  font-family: 'Arvo', serif;
+  font-family: 'Gentium Basic', serif;
 }
 nav ul a,
 nav .brand-logo {
@@ -30,7 +30,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 390px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
@@ -41,9 +41,9 @@ p {
     width: 100%;
   }
 
-  .header { margin-top: 15%; }
+  .header { margin-top: 20%; }
 
-  .header-subtitle { margin-top: 10%; }
+  .header-subtitle { margin-top: 35%; }
   { font-size: 1.3em; }
 
 @media only screen and (max-width : 992px) {
